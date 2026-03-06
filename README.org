@@ -1,0 +1,8 @@
+
+* Convert Text files with content.
+- Clone this repository
+- Run /nix-shell/ (You will need nix for this)
+- Run /cabal-update/ to get /Haskell/ dependencies
+- Run /cabal run/ to create the js files from the text files.
+  Note. the text files use tab separated values, tsv.
+  
