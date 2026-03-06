@@ -1,5 +1,5 @@
 
-* Convert Text files with content.
+* Convert Text files, tab separated, to JavaScript objects.
 - Clone this repository
 - Run /nix-shell/ (You will need nix for this)
 - Run /cabal-update/ to get /Haskell/ dependencies
